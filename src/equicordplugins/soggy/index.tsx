@@ -109,7 +109,7 @@ const settings = definePluginSettings({
     imageLink: {
         description: "URL for the image (button and modal)",
         type: OptionType.STRING,
-        default: "https://soggy.cat/assets/images/soggycat.webp",
+        default: "https://github.com/Equicord/Equicord/raw/main/src/equicordplugins/soggy/soggy.webp?raw=true",
     },
     songLink: {
         description: "URL for the song to play",
